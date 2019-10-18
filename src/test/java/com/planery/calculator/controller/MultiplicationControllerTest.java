@@ -29,7 +29,7 @@ public class MultiplicationControllerTest {
 
     private static final int NUMBER = 10;
     private static final int MULTIPLIER = 100;
-    private static final String API = "http://localhost:8080";
+    private static final String API = "http://localhost:8080/multiplication";
     @Autowired
     private MockMvc mvc;
 
